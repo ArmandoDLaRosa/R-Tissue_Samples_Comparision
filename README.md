@@ -8,6 +8,6 @@ Analysis of data sets of healthy and cancer tissue, using R to find the genes th
           
 ###### School Project Team
         - Armando De la Rosa 	     
+        - Maribel Alvarez
         - Daniel Zamacona	               
         - Ricardo Arriaga                
-        - Maribel Alvarez
